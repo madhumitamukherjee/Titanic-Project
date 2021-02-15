@@ -27,6 +27,6 @@ load("rda/Titanic.rda")
 
 The QQ-plot of passenger’s age has been done with an identity line using
 *geom\_abline()*. The Filtering operation has been performed for the
-unspecified data.
+unspecified data of the passenger’s age.
 
 ![](Report-2_files/figure-gfm/QQ-plot%20of%20age-1.png)<!-- -->
