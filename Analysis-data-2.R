@@ -8,3 +8,4 @@ params <- Titanic %>%
 Titanic<-Titanic%>%ggplot(aes(sample=Age))+geom_qq(dparams=params)+geom_abline()
 Titanic
 ggsave("figs/QQ_plot.png")
+
