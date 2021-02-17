@@ -38,3 +38,11 @@ The QQ-plot of passenger’s age has been done with an identity line using
 unspecified data of the passenger’s age.
 
 ![](Report_files/figure-gfm/QQ-plot%20of%20age-1.png)<!-- -->
+
+### Bar-plot of passenger’s Survived proportion Vs Sex
+
+The Bar plot of passenger’s Survived Vs Sex ratio has been demonstrated
+in the graph. The graph revels that most of the females are survived and
+less than half of the passengers are survived.
+
+![](Report_files/figure-gfm/Bar-plot-1.png)<!-- -->
