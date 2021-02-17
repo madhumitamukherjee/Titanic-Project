@@ -7,3 +7,4 @@ Titanic<-Titanic%>%ggplot(aes(Age,y=..count..,group=Sex,fill=Sex))+
 Titanic
 ggsave("figs/density_plot.png")
 
+
