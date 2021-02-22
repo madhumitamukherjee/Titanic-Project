@@ -53,3 +53,11 @@ The density plot of Age grouped by survival status has been done. This
 density plot revels that age group between 18-30 has the most death.
 
 ![](Report_files/figure-gfm/Density-plot-1.png)<!-- -->
+
+### Box plot of Fare vs Survival status
+
+The Box plot of Fare vs Survival status has been done. This plot reveals
+that passengers who survived generally pay higher fare. The median fare
+was lower for passengers who did not survive.
+
+![](Report_files/figure-gfm/Box-plot-1.png)<!-- -->
