@@ -39,7 +39,7 @@ unspecified data of the passenger’s age.
 
 ![](Report_files/figure-gfm/QQ-plot%20of%20age-1.png)<!-- -->
 
-### Bar-plot of passenger’s Survived proportion Vs Sex in Titanic
+### Bar-plot of passenger’s Survived proportion Vs Sex ratio in Titanic
 
 The Bar plot of passenger’s Survived Vs Sex ratio has been demonstrated
 in the graph. The graph revels that most of the females are survived and
@@ -61,3 +61,25 @@ that passengers who survived generally pay higher fare. The median fare
 was lower for passengers who did not survive.
 
 ![](Report_files/figure-gfm/Box-plot-1.png)<!-- -->
+
+### Bar plot of Survival by Passenger Class
+
+-   The bar plot of passenger class filled by survival has been done
+    here. The first bar plot of passenger class count filled by survival
+    shows most passengers in first class survived and most passengers in
+    other classes did not survive.
+
+![](Report_files/figure-gfm/Bar-plot3-1.png)<!-- -->
+
+-   The second bar plot of passenger class proportions filled by
+    survival shows survival proportion was highest for first class
+    passengers, followed by second class. Third-class had the lowest
+    survival proportion.
+
+![](Report_files/figure-gfm/Bar-plot1-1.png)<!-- -->
+
+-   The third bar plot of survival filled by passenger class proportions
+    shows that majority of those who did not survive were from third
+    class.
+
+<img src="Report_files/figure-gfm/Bar-plot2-1.png" style="display: block; margin: auto;" />
